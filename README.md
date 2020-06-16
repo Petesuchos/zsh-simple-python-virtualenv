@@ -24,7 +24,7 @@ How to install
 1. Clone this repository in oh-my-zsh's plugins directory:
 
     ```zsh
-    git clone hhttps://github.com/Petesuchos/zsh-simple-python-virtualenv.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-simple-python-virtualenv
+    git clone https://github.com/Petesuchos/zsh-simple-python-virtualenv.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-simple-python-virtualenv
     ```
 
 2. Activate the plugin in `~/.zshrc`:
